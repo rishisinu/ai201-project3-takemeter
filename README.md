@@ -45,8 +45,8 @@ The dataset was split 70/15/15 (train/val/test) with stratification to preserve 
 
 | Label | Precision | Recall | F1 |
 |---|---|---|---|
-| Soccer News | 0.71 | 0.92 | 0.8 |
-| Match Analysis | 0.85 | 0.92 | 0.88 |
+| Soccer News | 0.61 | 0.72 | 0.76 |
+| Match Analysis | 0.65 | 0.89 | 0.78 |
 | Fan Interactions | 0 | 0 | 0 |
 
 *(Fill in from your classification_report output)*
